@@ -1,0 +1,2 @@
+This is for practicing git before proceeding.
+I used "code <filename>" to open it.

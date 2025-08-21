@@ -3,4 +3,8 @@ this is also after the initial git commit
 
 i used "git add ." to add all the files, then commited using "git commit -m "Complete ch2 and ch3"
 
-since this is being modified after the commit, i have to commit these files, without adding them again
+since this is being modified after the commit, i have to commit these files, by adding them again, then committing again with a new msg
+
+(this is my fourth commit, as i did some modifications to the text after the 3rd one)
+so, use 
+"git add filename" to stage the files, then `git commit -m "The msg for commit"`

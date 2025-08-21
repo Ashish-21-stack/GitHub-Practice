@@ -1,1 +1,6 @@
 this is also after the initial git commit
+
+
+i used "git add ." to add all the files, then commited using "git commit -m "Complete ch2 and ch3"
+
+since this is being modified after the commit, i have to commit these files, without adding them again
